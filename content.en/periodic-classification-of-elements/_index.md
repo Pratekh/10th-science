@@ -75,19 +75,19 @@ As you have studied the features of the modern periodic table in standard IX, he
 
 <span style="font-size: 2em;color:#663300;">&#9670;</span> The **horizontal rows are called** **periods**. There are **seven** periods in the periodic table.
 
-‹ **First period** (Atomic number 1 and 2): This is the shortest period. It contains only two elements (Hydrogen and Helium).
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  **First period** (Atomic number 1 and 2): This is the shortest period. It contains only two elements (Hydrogen and Helium).
 
-‹ **Second period** (Atomic number 3 to 10): This is a short period. It contains eight elements (Lithium to Neon).
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  **Second period** (Atomic number 3 to 10): This is a short period. It contains eight elements (Lithium to Neon).
 
-‹ **Third period** (Atomic number 11 to 18): This is also a short period. It contains eight elements (Sodium to Argon).
+<span style="font-size: 2em;color:#663300;">&#9670;</span> **Third period** (Atomic number 11 to 18): This is also a short period. It contains eight elements (Sodium to Argon).
 
-‹ **Fourth period** (Atomic number 19 to 36): This is a long period. It contains eighteen elements (Potassium to Krypton). This includes 8 representative elements and 10 transition elements.
+<span style="font-size: 2em;color:#663300;">&#9670;</span> **Fourth period** (Atomic number 19 to 36): This is a long period. It contains eighteen elements (Potassium to Krypton). This includes 8 representative elements and 10 transition elements.
 
-‹ **Fifth period** (Atomic number 37 to 54): This is also a long period. It contains 18 elements (Rubidium to Xenon). This includes 8 representative elements and 10 transition elements.
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  **Fifth period** (Atomic number 37 to 54): This is also a long period. It contains 18 elements (Rubidium to Xenon). This includes 8 representative elements and 10 transition elements.
 
-‹ **Sixth period** (Atomic number 55 to 86): This is the longest period. It contains 32 elements (Caesium to Radon). This includes 8 representative elements, 10 transition elements and 14 inner transition elements (Lanthanides).
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  **Sixth period** (Atomic number 55 to 86): This is the longest period. It contains 32 elements (Caesium to Radon). This includes 8 representative elements, 10 transition elements and 14 inner transition elements (Lanthanides).
 
-‹ **Seventh period** (Atomic number 87 to 118): Like the sixth period, this period also accommodates 32 elements. Recently 4 elements have been included by IUPAC.
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  **Seventh period** (Atomic number 87 to 118): Like the sixth period, this period also accommodates 32 elements. Recently 4 elements have been included by IUPAC.
 
 
 
@@ -100,21 +100,7 @@ As you have studied the features of the modern periodic table in standard IX, he
 
 
 
-**Fi gu**
-
-**re 8**
-
-**.1** M
-
-od er
-
-n Pe
-
-rio di
-
-c T ab
-
-le \*(
+**Figure 8.1** Modern Periodic Table \*(
 
 C A
 
@@ -176,9 +162,9 @@ ist ry
 ### 8.2.2 Features of Groups
 
 
-‹ The vertical columns in the periodic table starting from top to bottom are called **groups. There are 18 groups in the periodic** table.
+<span style="font-size: 2em;color:#663300;">&#9670;</span> The vertical columns in the periodic table starting from top to bottom are called **groups. There are 18 groups in the periodic** table.
 
-‹ Based on the common characteristics of elements in each group, they can be grouped as various families.
+<span style="font-size: 2em;color:#663300;">&#9670;</span> Based on the common characteristics of elements in each group, they can be grouped as various families.
 
 **Group Number Family** 1 Alkali Metals
 
@@ -198,18 +184,23 @@ ist ry
 
 18 Noble gases
 
-‹ The Lanthanides and Actinides, which form part of Group 3 are called **inner transition elements**.
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  The Lanthanides and Actinides, which form part of Group 3 are called **inner transition elements**.
 
-‹ Except 'group 18', all the elements present in each group have the same number of electrons in their valence shell and thus have the same valency. For example, all the elements of group 1 have one electron in their valence shells (1s1). So, the valency of all the alkali metals is ‘1’.
+<span style="font-size: 2em;color:#663300;">&#9670;</span> Except 'group 18', all the elements present in each group have the same number of electrons in their valence shell and thus have the same valency. For example, all the elements of group 1 have one electron in their valence shells (1s1). So, the valency of all the alkali metals is ‘1’.
 
-‹ As the elements present in a group have identical valence shell electronic configurations, they possess similar chemical properties.
+<span style="font-size: 2em;color:#663300;">&#9670;</span> As the elements present in a group have identical valence shell electronic configurations, they possess similar chemical properties.
 
-‹ The physical properties of the elements in a group such as melting point, boiling point and density vary gradually.
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  The physical properties of the elements in a group such as melting point, boiling point and density vary gradually.
 
-‹ The atoms of the 'group 18' elements have stable electronic configuration in their valence shells and hence they are unreactive.
+<span style="font-size: 2em;color:#663300;">&#9670;</span>  The atoms of the 'group 18' elements have stable electronic configuration in their valence shells and hence they are unreactive.
 
 ## 8.3 PERIODIC TRENDS IN PROPERTIES
 
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="q2.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 The electronic configurations of elements help us to explain the periodic recurrence of physical and chemical properties. Anything which repeats itself after a regular interval is called **periodic** and this behaviour is called **periodicity.** Some of the atomic properties of the elements are periodic.
 
@@ -271,6 +262,12 @@ When you look at the variation of the atomic radii in the periodic table, there 
  It is defined as the distance from the centre
 
 of the nucleus of the ion upto the point where it exerts its influence on the electron cloud of
+
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="image13.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **Figure 8.3** Atomic radius
 
@@ -407,6 +404,11 @@ Predict the nature of the bond in the following molecules.
 
 ## 8.4 METALLURGY
 
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="q3.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 Human life is associated with various metals. We use metals in our day to day activities. It is the utmost need to have some metals like sodium, potassium, calcium, iron, etc. in the human body. Deficiency of these metals affects the metabolic activities thereby causing diseases. So, metals play a vital role in our life. In this section, let us discuss how metals are obtained from various sources by the process of metallurgy.
 
@@ -432,6 +434,12 @@ It is the process of removal of impuries from the ore.
 **All ores are minerals; But all minerals are not ores.**
 
 **Why?**
+
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="i1.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 
 **For example:** Clay (Al2O3. 2 SiO2. 2 H2O) and bauxite (Al2O3.2 H2O) are the two minerals of aluminium, but aluminium can be profitably extracted only from bauxite. Hence, bauxite is an ore of aluminium and clay is its mineral.
 
@@ -1138,24 +1146,29 @@ It is a railway bridge which connects the town of Rameshwaram on Pamban Island t
 
 **Points to Remember**
 
-™ Modern periodic law states that, the physical and chemical properties of the elements are the periodic functions of their atomic numbers. ™ The table in which elements are arranged
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span>  Modern periodic law states that, the physical and chemical properties of the elements are the periodic functions of their atomic numbers. 
 
-in rows and columns in regular gradation is called periodic table. ™ Smelting is the process of reducing the
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> The table in which elements are arranged in rows and columns in regular gradation is called periodic table. 
 
-roasted metallic oxide into metal in molten condition. ™ Dilute or con. HNO3 does not attack
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> Smelting is the process of reducing the roasted metallic oxide into metal in molten condition. 
 
-aluminium metal ,as it renders aluminium passive due to oxide film formation on its surface.
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> Dilute or con. HNO3 does not attack aluminium metal ,as it renders aluminium passive due to oxide film formation on its surface.
 
-™ The charge used in the metallurgy of iron consists of roasted ore, coke and limestone in the ratio, 8:4:1. ™ Copper vessel on exposure to air and
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> The charge used in the metallurgy of iron consists of roasted ore, coke and limestone in the ratio, 8:4:1. 
 
-moisture forms a green layer on its surface due to basic copper carbonate. ™ An alloy is a homogeneous mixture of
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> Copper vessel on exposure to air and moisture forms a green layer on its surface due to basic copper carbonate. 
 
-two or more metals. ™ An amalgam is an alloy of mercury with
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> An alloy is a homogeneous mixture of two or more metals. 
 
-another metal. E.g. Ag-Sn amalgam is used for dental filling. ™ The chemical name of rust is hydrated
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> An amalgam is an alloy of mercury with another metal. E.g. Ag-Sn amalgam is used for dental filling. 
 
-ferric oxide and its formula is Fe2O3 .xH2O.
+™ <span style="font-size: 2em;color:#663300;">&#9670;</span> The chemical name of rust is hydrated ferric oxide and its formula is Fe2O3 .xH2O.
 
+<div style="display: flex; justify-content: center;padding-bottom:30px">
+ 
+<img src="q4.png" alt="Beautiful landscape" width="400">
+ 
+</div>
 **TEXTBOOK EVALUATION**
 
 **I. Choose the best answer.** 1\. The number of periods and groups in the
